@@ -1,0 +1,23 @@
+1) Importér utdanning-databasen med phpmyadmin
+2) Pass på at du har fått med deg alle dataene, det skal være 51 elever, 5134 postnr, og 28 skoler
+3) Bruk ressursene som står beskrevet i presentasjonen
+
+
+Lag en SQL-spørring som gir svaret til hvert av følgende spørsmål:
+1)	Hvor mange forskjellige skoler er det totalt?
+2)	Hvor mange elever er det totalt?
+3)	Hvor mange elever heter noe med «Hansen»?
+4)	Hvilke elever har høyest karaktergjennomsnitt?
+5)	Hva er gjennomsnittskarakteren for alle elevene?
+6)	Hvilke elever har karaktergjennomsnitt mellom 3 og 4?
+7)	Hvilke elever går på Valle Hovin VGS?	
+8)	Hvor mange elever går på Oslo Katedralskole?
+9)	Hvilken elev har høyest karaktergjennomsnitt på Etterstad?
+10)	Hva er karaktergjennomsnittet på Nordre Aker Skole?
+11)	Hvilken elev har lavest karaktergjennomsnitt på Hartvig Nissen?
+12)	Hvilke skoler har ingen elever?
+13)	Hvor mange elever går på skole utenfor Oslo?
+
+Bonusoppgaver:
+•	Hvilken skole har høyest karaktergjennomsnitt blant sine elever?
+•	Hvilken skole har lavest karaktergjennomsnitt blant sine elever?
